@@ -4,27 +4,27 @@ references:
 generations:
   - name: "First Generation (C117)"
     start_year: 2013
-    end_year: 2018
+    end_year: 2019
     platform: "MFA"
-    description: "The first generation CLA is a four-door sedan based on the MFA platform, marketed as a four-door coupé. The CLA 200 features a 1.6L turbocharged I4 engine producing 156 hp. A Shooting Brake (station wagon) version was introduced in 2015. Production ran from 2013-2019 for most models, with CLA 200 ending in 2018. A facelift was introduced in 2017 with new headlights and taillights."
+    description: "The first generation CLA is a four-door sedan based on the MFA platform, marketed as a four-door coupé. The CLA 200 features a 1.6L turbocharged I4 engine producing 156 hp and 250 Nm of torque. A Shooting Brake (station wagon) version was introduced in 2015. Production ran from 2013-2019. A facelift was introduced in 2017 with new headlights and taillights. Available with 6-speed manual or 7-speed DCT transmission."
     body_styles:
       - "Sedan"
       - "Shooting Brake"
 
   - name: "Second Generation (C118)"
     start_year: 2019
-    end_year: 2024
+    end_year: null
     platform: "MFA2"
-    description: "The second generation CLA debuted at the 2019 Consumer Electronics Show. Based on the MFA2 platform, it features updated styling inspired by the C257 CLS. The CLA 200 uses a 1.3L turbocharged I4 engine producing 163 hp. It features the Mercedes-Benz User Experience (MBUX) infotainment system. A facelift in January 2023 brought minor updates including the discontinuation of manual transmissions."
+    description: "The second generation CLA debuted at the 2019 Consumer Electronics Show. Based on the MFA2 platform, it features updated styling inspired by the C257 CLS. The CLA 200 uses a 1.3L turbocharged I4 engine producing 163 hp and 250 Nm of torque. It features the Mercedes-Benz User Experience (MBUX) infotainment system with 'Hey Mercedes' voice control. A facelift in January 2023 brought minor updates including the discontinuation of manual transmissions. Available with 6-speed manual or 7-speed DCT (8G-DCT for 4MATIC)."
     body_styles:
       - "Sedan"
       - "Shooting Brake"
 
-  - name: "Second Generation Facelift (C118)"
+  - name: "Third Generation (C178)"
     start_year: 2025
     end_year: null
-    platform: "MFA2"
-    description: "The facelifted second generation CLA features updated technology and continues production. The 2025 model year brings continued production of the CLA 200 with the MFA2 platform. Manual transmission was fully discontinued as part of the facelift updates."
+    platform: "MMA"
+    description: "The third-generation CLA, officially marketed as CLA with EQ Technology, debuted in March 2025. It is the first model based on the Mercedes-Benz Modular Architecture (MMA) platform. For the first time, combustion-engine and battery electric models share identical designs. The CLA 200 uses a 1.5L turbocharged I4 engine with 48V mild-hybrid system producing 163 hp combined. Features the new MB.OS operating system with MBUX Superscreen (10.25-inch instrument cluster and 14-inch touchscreen). Manual transmission fully discontinued."
     body_styles:
       - "Sedan"
       - "Shooting Brake"
