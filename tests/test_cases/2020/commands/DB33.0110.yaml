@@ -1,17 +1,14 @@
 command_id: DB33.0110
 test_cases:
 - expected_values:
-    MAF: 2.09
-  response: 18DAF15804411000D1
+    MAF: 1.17
+  response: 18DAF1580441100075
 - expected_values:
-    MAF: 2.13
-  response: 18DAF15804411000D5
+    MAF: 2.89
+  response: 18DAF1580441100121
 - expected_values:
-    MAF: 2.16
-  response: 18DAF15804411000D8
+    MAF: 5.07
+  response: 18DAF15804411001FB
 - expected_values:
-    MAF: 2.2
-  response: 18DAF15804411000DC
-- expected_values:
-    MAF: 2.49
-  response: 18DAF15804411000F9
+    MAF: 23.93
+  response: 18DAF1580441100959
