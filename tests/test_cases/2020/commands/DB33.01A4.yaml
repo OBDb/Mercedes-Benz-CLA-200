@@ -1,0 +1,8 @@
+command_id: DB33.01A4
+test_cases:
+- expected_values:
+    GEAR_ACT: 0
+    GEAR_ACT_SUP: 1
+    GEAR_RAT: 0
+    GEAR_RAT_SUP: 0
+  response: 18DAF1580641A401000000
