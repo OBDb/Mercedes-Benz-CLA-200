@@ -1,6 +1,10 @@
 command_id: 7E2.7EA.222001
 test_cases:
 - expected_values:
+    MERCEDES_FL_VSS: 0
+    MERCEDES_FR_VSS: 0
+    MERCEDES_RL_VSS: 0
+    MERCEDES_RR_VSS: 0
     MERCEDES_TIRE_FL_VSS: 0
     MERCEDES_TIRE_FR_VSS: 0
     MERCEDES_TIRE_RL_VSS: 0
