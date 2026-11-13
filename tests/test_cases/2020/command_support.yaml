@@ -117,6 +117,13 @@ supported_commands_by_ecu:
 unsupported_commands_by_ecu:
   "624":
   - 624.5A4.220201|fc=1:MERCEDES_AUX_V_HD
+  "7E0":
+  - 7E0.0104:LOAD_PCT
+  - 7E0.0105:ECT
+  - 7E0.0106:SHRTFT1
+  - 7E0.010D:VSS
+  - 7E0.0110:MAF
+  - 7E0.0134:LAMBDA11_CURRENT,O2S11_CURRENT
   "7E5":
   - 7E5.222526:MERCEDES_HV_COOLANT_T
   - 7E5.226502:MERCEDES_HV_RANGE
@@ -137,3 +144,4 @@ unsupported_commands_by_ecu:
   - DA59.000059.015E
   "DB33":
   - DB33.010E:SPARKADV
+  - DB33.0142:VPWR
