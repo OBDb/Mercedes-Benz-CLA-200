@@ -4,5 +4,5 @@ test_cases:
     EOT: 15
   response: 18DAF15803415C37
 - expected_values:
-    EOT: 79
-  response: 18DAF15803415C77
+    EOT: 81
+  response: 18DAF15803415C79
