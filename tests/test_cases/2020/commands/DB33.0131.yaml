@@ -52,6 +52,15 @@ test_cases:
     18DAF1590441311BD0
     18DAF15A0441312E23
 - expected_values:
+    CLR_DIST: 7357
+  response: 18DAF1580441311CBD
+- expected_values:
+    CLR_DIST: 11824
+  response: |-
+    18DAF1580441311CBD
+    18DAF1590441311BDD
+    18DAF15A0441312E30
+- expected_values:
     CLR_DIST: 11793
   response: |-
     18DAF1590441311BBE
