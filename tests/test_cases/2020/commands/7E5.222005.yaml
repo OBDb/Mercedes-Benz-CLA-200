@@ -16,6 +16,9 @@ test_cases:
     MERCEDES_AUX_V: 12.89922
   response: 7ED046220057F
 - expected_values:
+    MERCEDES_AUX_V: 13.00078
+  response: 7ED0462200580
+- expected_values:
     MERCEDES_AUX_V: 13.9149
   response: 7ED0462200589
 - expected_values:
